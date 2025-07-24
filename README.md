@@ -1,4 +1,5 @@
-                       .,,uod8B8bou,,.
+<pre>
+                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
          !...:!TVBBBRPFT||||||||||!!^^""'   ||||
@@ -28,6 +29,8 @@
                   `!988888888899fT|!^"'
                     `!9899fT|!^"'
                       `!^"'
+</pre>
+
 > Hi
 > I'm interested in databases, compilers, and distributed systems.
 > Always happy to chat about any of the above!
