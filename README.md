@@ -35,8 +35,6 @@
 > Hi
 > I'm interested in databases, compilers, and distributed systems.
 > Always happy to chat about any of the above!
+> Feel free to reach out on X or email
 
-Feel free to reach out:
-- X: [@g3dots](https://x.com/g3dots)
-- Email: ginisheja@gmail.com
 ```
